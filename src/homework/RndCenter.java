@@ -2,8 +2,21 @@ package homework;
 
 public class RndCenter {
 
-	String[] team;
-	
+	/**
+	 * TODO: 필드는 private으로 외부 적근을 막고, getter, setter를 통해 접근하도록 하는게 좋습니다.
+	 *
+	 * private String[] team;
+	 *
+	 * 	public String[] getTeam() {
+	 * 		return team;
+	 *        }
+	 *
+	 * 	public void setTeam(String[] team) {
+	 * 		this.team = team;
+	 *    }
+	 */
+	private String[] team;
+
 	static String company = "티사이언티픽";
 	
 	void purpormance() {
