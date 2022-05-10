@@ -14,8 +14,8 @@ public class Step {
 	public int getAge() {
 		return age;
 	}
-//	public void working() {
-//		// TODO Auto-generated method stub
-//		
-//	}
+	public void working() {
+		// TODO Auto-generated method stub
+
+	}
 }
